@@ -1,12 +1,10 @@
 # reddit_keywords
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab_url) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruanchaves/reddit_keywords/blob/master/reddit.ipynb) 
 
 Extract submissions and comments from Reddit based on keywords. 
 
-<h3> <a href="colab_url"> Colab notebook </a> </h3>
-
-https://colab.research.google.com/github/
+<h3> <a href="https://colab.research.google.com/github/ruanchaves/reddit_keywords/blob/master/reddit.ipynb"> Colab notebook </a> </h3>
 
 # Installation
 
