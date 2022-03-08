@@ -27,4 +27,6 @@ bash build_db.sh
 python db_to_csv.py --keywords "China,china" --fields "body,title,selftext"
 ```
 
-For more details about the options, see also: [Pushshift-Importer](https://github.com/Paul-E/Pushshift-Importer)
+For more details about the options, see also: [Pushshift-Importer](https://github.com/Paul-E/Pushshift-Importer). 
+
+You can edit the `Pushshift-Importer` options on the `build_db.sh` file to filter dumps by date, subreddit, user and karma.
